@@ -59,7 +59,7 @@ export default function Overlay({ progress }: OverlayProps) {
         </h2>
         <div className="h-1 w-24 bg-white/50 mb-6 ml-auto" />
         <p className="text-lg md:text-xl text-white/70 font-light max-w-md drop-shadow-md">
-          Expertise in React, Node.js, WebRTC video conferencing, and Socket.io real-time communication.
+          Expertise in TypeScript, React, Node.js, MongoDB, and Socket.io real-time communication.
         </p>
       </motion.div>
 
